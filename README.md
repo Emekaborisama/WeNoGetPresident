@@ -11,7 +11,7 @@ This Year(2019), Xenophobia atttack become more violence than ever, my thought t
 
 Apprently with the help of [Paschal Chukwuemeka](https://www.linkedin.com/in/paschal-chukwuemeka-amah-91009369/) i was able to get the dataset scraped from Twitter (#WeNoGetPresident #XenophobiaInSa #Xenophobia)
 
-# I urge intermidate and Expert Data Analyst and Scientist to work on the dataset and extract meaningful insight from the dataset
+# I urge intermidate or Expert Data Analyst and Scientist to work on the dataset and extract meaningful insight from the dataset
 
 Example of some questions that can be answer with this dataset
 
