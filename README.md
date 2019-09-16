@@ -23,3 +23,6 @@ Example of some questions that can be answer with this dataset
 
 
 Watch out for more update on the dataset
+
+
+### Check out the resources folder to find link to resources that can help you.
